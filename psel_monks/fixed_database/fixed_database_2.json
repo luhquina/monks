@@ -1,0 +1,46 @@
+[
+  {
+    "id_marca": 1,
+    "marca": "Fiat"
+  },
+  {
+    "id_marca": 2,
+    "marca": "Volkswagen"
+  },
+  {
+    "id_marca": 3,
+    "marca": "Kia"
+  },
+  {
+    "id_marca": 4,
+    "marca": "Peugeot "
+  },
+  {
+    "id_marca": 5,
+    "marca": "Toyota"
+  },
+  {
+    "id_marca": 6,
+    "marca": "Nissan"
+  },
+  {
+    "id_marca": 7,
+    "marca": "Mitsubishi"
+  },
+  {
+    "id_marca": 8,
+    "marca": "Subaru"
+  },
+  {
+    "id_marca": 9,
+    "marca": "Chevrolet "
+  },
+  {
+    "id_marca": 10,
+    "marca": "JaC Motors"
+  },
+  {
+    "id_marca": 11,
+    "marca": "Renault"
+  }
+]
